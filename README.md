@@ -1,12 +1,9 @@
-#Using Space Effectively
+# Position Optimization: Use the space effectively
 
-##Implementation
-    Java
-
-##Objective
+## Objective
     Gain space from moving forms of an SVG file 
 	
-###Condition on SVG file
+### Condition on SVG file
     Use only ``` l, c, z, m, L, C, Z, M ``` option to create forms
 
 
