@@ -10,6 +10,6 @@
 
 ## 		Use
     To Run the Application: 
-```bash
+```{r, engine='sh', count_lines}
 	make run
 ```
