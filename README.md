@@ -11,3 +11,9 @@
 ## 		Use
     To Run the Application: 
 		make run
+
+
+## 		Authors
+
+	Govindaraj VETRIVEL
+	Constantin DIVRIOTIS
