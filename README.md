@@ -10,6 +10,4 @@
 
 ## 		Use
     To Run the Application: 
-```{r, engine='sh', count_lines}
-	make run
-```
+		make run
